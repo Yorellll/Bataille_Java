@@ -8,5 +8,5 @@ Une fois terminer on continue avec la valeur suivant et ainsi de suite), une foi
 Dans un second temps, on le randomise, afin de mélanger le paquet, puis on distribue les cartes à chaque joueur (26 cartes chacun).</br>
 
 Ensuite on commence à jouer, chaque joeur tire une carte de son paquet, chacune d'entre elle est ajouté à un paquet sur le coté. Ce paquet est ensuite parcouru afin de vérifier que les future carte tiré n'ont pas déjà été tiré. 
-Si elles l'ont déjà étét, alors on en retire une, toute en vérifiant toujours que c'est une nouvelle carte. Pour finir on compare chacune des cartes, grâce à l'index des valeurs, et on ajoute au joueur ayant la plus forte un point. 
-Pour finir on affiche le joueur gagnant avec son nombre de point.
+Si elles l'ont déjà été, alors on en tire à nouveau, tout en vérifiant toujours que c'est une nouvelle carte.</br>
+Pour finir on compare chacune des cartes, grâce à l'index des valeurs, et on ajoute au joueur ayant la plus forte un point, le joueur en ayant le plus est affiché à la fin avec son nombre de point.</br>
